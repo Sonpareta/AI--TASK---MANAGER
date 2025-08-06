@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+xgboost
+nltk
+spacy
+faker
+joblib
+streamlit
+dash
+Flask
+transformers
